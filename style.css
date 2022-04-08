@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.button {
+    background-color: #2efe;
+    color: #fff;
+    size: 10px;
+}
